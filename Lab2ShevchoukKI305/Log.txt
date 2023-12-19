@@ -1,9 +1,0 @@
-Light color is White
-Lamp size is 78.5
-New color of light is Red.
-New radius of lamp is 7.0 cm.
-Light color is Red
-Lamp size is 153.86
-Light power is 20.0 W.
-You tap the power on button.
-You tap the power off button.
